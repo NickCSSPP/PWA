@@ -1,0 +1,20 @@
+{
+    "name": "NickTest",
+    "short_name": "NickTest",
+    "start_url": "/",
+    "background_color": "#6dcff6",
+    "theme_color": "#009578",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/images/test1.png", 
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/test2.png",
+            "sizes": "520x520",
+            "type": "image/png"
+        }
+    ]
+}
